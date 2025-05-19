@@ -13,12 +13,6 @@ There are multiple visuals in the document, which reference trends in music and 
 Loom Video Overview can be found at N/A.
 Tableau Public Share Link: N/A.
 
-## Table of Contents for Repository Artifacts
-
-| File Number | Title | Description | 
- | ----- | ----- | ----- | 
-| N/A | N/A | N/A | 
-
 ## Table of Contents
 
 | Section Title | Description | 
