@@ -3,11 +3,11 @@ Projects I've worked on while studying Business Intelligence Analytics at Triple
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| S0 | [Individual Project Status Report](url)   | Analyzes music trends and user engagement to provide recommendations for optimizing the Fresh Beats platform. | 
-| S1 | [NYC Airbnb Data Analysis](url)      | Analysis of NYC Airbnb data to identify profitable investment properties.                                     | 
-| S2 | [Short-Term Rental Market Analysis](url) | Market analysis using Airbnb data for a short-term rental company.                                          | 
-| S3 | [E-Commerce Analytics](url)        | Analysis of user behavior on an e-commerce platform.                                                        |
-| S4 | [E-Commerce Transaction Analysis](url)  | Analyzed e-commerce transaction logs to provide business insights.                                          | 
-| S5 | [Product Returns Analysis](url)    | Analyzed product return patterns to reduce returns.                                                          |
-| S6 |[Shopify App Success Analysis](url)| Analyzed Shopify app data to identify success factors.                                                      | 
-| S7 | [Zomato Sales Analysis](url)| Analysis of Zomato's food delivery sales performance.                                                        | 
+| S0 | [Fresh Beats](https://github.com/viaesa/Data_projects_TripleTen/tree/main/Fresh%20Beats)  | Analyzes music trends and user engagement to provide recommendations for optimizing the Fresh Beats platform. | 
+| S1 | [Airbnb NY Analysis](https://github.com/viaesa/Data_projects_TripleTen/tree/main/Airbnb%20NY%20Analysis)      | Analysis of NYC Airbnb data to identify profitable investment properties.    | 
+| S2 | [Zuber Database](https://github.com/viaesa/Data_projects_TripleTen/tree/main/Zuber%20Database) | change         | 
+| S3 | [E-Commerce Analytics](https://github.com/viaesa/Data_projects_TripleTen/tree/main/ECommerce%20Analysis)        | Analysis of user behavior on an e-commerce platform.                     |
+| S4 | [SuperStore Insights](https://github.com/viaesa/Data_projects_TripleTen/tree/main/SuperStore%20Insights)  | change            | 
+| S5 | [SuperStore Return Analysis](https://github.com/viaesa/Data_projects_TripleTen/tree/main/SuperStore%20Return%20Analysis)    | Analyzed product return patterns to reduce returns.                 |
+| S6 |[Shopify App Analysis](https://github.com/viaesa/Data_projects_TripleTen/tree/main/Shopify%20App%20Analysis)| Analyzed Shopify app data to identify success factors.                       | 
+| S7 | [Zomato Restaurant Analysis](https://github.com/viaesa/Data_projects_TripleTen/tree/main/Zomato%20Restaurant%20Analysis)| Analysis of Zomato's food delivery restaurant's performance.            | 
