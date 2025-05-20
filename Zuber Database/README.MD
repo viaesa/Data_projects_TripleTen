@@ -1,0 +1,4 @@
+	•	Analyzed taxi ride data for various companies and date ranges, calculating ride counts and comparing popular companies.
+	•	Retrieved Loop and O'Hare neighborhood identifiers and categorized weather conditions using a CASE operator.
+	•	Identified Saturday taxi rides from Loop to O'Hare, integrated weather data, and retrieved ride durations.
+	•	Focused on analyzing how ride duration changes on rainy Saturdays versus other conditions for the Loop to O'Hare route.
