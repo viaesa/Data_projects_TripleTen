@@ -1,4 +1,4 @@
 	•	Contributed to the foundational work upon which a Senior Analyst conducted the full data analysis.
-	•	Wrote the "Status Summary" (no more than two paragraphs) summarizing the insights considered.
+	•	Wrote the "Status Summary" summarizing the insights considered.
 	•	Related the insights back to the business challenges from the project brief within the summary.
 	•	Selected appropriate insights for each business need from the provided dataset.
