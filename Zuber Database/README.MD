@@ -18,13 +18,13 @@ This analysis aims to address questions vital for Zuber's operational strategy, 
 * What are the typical ride patterns between key locations?
 
 ## Table of Contents
-
-* [Overview](#overview)
-* [Key Analyses](#key-analyses)
-* [Key Business Questions](#key-business-questions)
-* [Summary](#summary)
-* [Introduction](#introduction)
-
+| Section                | Link                                   |
+| :--------------------- | :------------------------------------- |
+| Overview               | [Overview](#overview)                  |
+| Key Analyses           | [Key Analyses](#key-analyses)          |
+| Key Business Questions | [Key Business Questions](#key-business-questions) |
+| Summary                | [Summary](#summary)                    |
+| Introduction           | [Introduction](#introduction)          |
 ## Overview
 
 As an analyst for Zuber, a new ride-sharing company in Chicago, this project delves into available database information to find patterns in taxi rides. The scope includes analyzing ride data, competitor information, and the influence of weather on ride frequency, all to understand and optimize passenger preferences and service delivery.
