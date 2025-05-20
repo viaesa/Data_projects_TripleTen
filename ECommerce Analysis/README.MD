@@ -1,6 +1,1 @@
-  •	Developed a conversion funnel using pivot tables, calculating unique users and conversion rates.
-	•	Prepared data for cohort analysis by filtering purchase events, calculating first purchase dates with VLOOKUP(), and creating month and cohort age columns using TEXT() and DATEDIF().
-	•	Conducted cohort analysis by grouping users by first purchase month and calculating user counts per cohort age.
-	•	Determined retention rates for each cohort month by month.
-	•	Documented the results and analysis details for the conversion funnel and retention rates in the 'Executive Summary', including assumptions and data explanations.
-	•	Organized and formatted the spreadsheet for clarity, including tab reordering and the 'Table of Contents'.
+
