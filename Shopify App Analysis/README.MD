@@ -1,30 +1,31 @@
-App Reviews and Developer Activity Analysis
-This project analyzes the relationship between app reviews and developer activity, aiming to understand how developer responsiveness and other factors influence user ratings.
-Key Findings
-Correlation between Reviews and Ratings: The scatter plot shows the relationship between the number of reviews and app ratings, but does not describe the nature of this relationship.
-Average Ratings by Developer: The bar chart displays the average app rating, comparing apps with and without developer responses.
-Helpful Reviews: The KPI shows the average number of helpful reviews.
-Review Activity Over Time: The line chart shows the number of reviews over time.
-Formulas: Formulas are provided for calculating helpful reviews and developer response.
-Table of Contents
-Overview
-App Review Analysis
-Developer Activity Analysis
-Formulas
-Conclusions
-Overview
-This project examines the connection between app reviews and developer activity. The goal is to determine if developer responses to user reviews impact app ratings. The analysis also considers the helpfulness of reviews and review trends over time.
-App Review Analysis
-Number of Reviews: The KPI Card indicates there are 7341 reviews.
-Helpful Reviews: The bar chart displays the average number of helpful reviews.
-Review Trends Over Time: The line chart shows the trend in the number of reviews over time.
-Reviews-Ratings Correlation: The scatter plot shows the relationship between the number of reviews and the ratings, but does not describe the nature of this relationship.
-Developer Activity Analysis
-Average Rating by Developer: The bar chart compares the average ratings of apps based on whether developers responded to user reviews.
-Developer Response: A formula is used to determine if a developer responded to a review.
-Formulas
-The following formulas were used in this analysis:
-Helpful Reviews: helpful_reviews = reviews[rating] * (1 + reviews[helpful_count])
-Developer Response: developer_answered = IF(NOT(ISBLANK(reviews[developer_reply])), 1, 0)
-Conclusions
-The visuals provide insights into review volume, review helpfulness, review trends over time, and the relationship between developer response and app ratings. Further analysis could explore the strength of the correlation between reviews and ratings, and whether developer responsiveness leads to higher and sustained app ratings.
+## App Analysis Project
+
+This project analyzed app data to gain insights into app performance and developer responsiveness.
+
+### Key Analyses:
+
+1.  **App Landscape Analysis:**
+    * A KPI card was created to display the total number of unique apps.
+    * Review trends over time were visualized using a line chart.
+    * A scatterplot was generated to explore the relationship between review count and average rating.
+    * Interpretation of the scatterplot findings was included.
+
+2.  **Enhanced Review Analysis:**
+    * DAX was used to create new columns:
+        * `helpful_reviews`:  To quantify the usefulness of reviews.
+        * `developer_answered`: To indicate if developers responded to reviews.
+    * Average values of `helpful_reviews` and `developer_answered` were visualized.
+    * The relationship between these new metrics and app ratings was analyzed.
+
+3.  **Developer Performance Analysis:**
+    * App and review data were linked to evaluate developer performance.
+    * Bar charts were used to visualize:
+        * Total number of ratings per developer.
+        * Average number of helpful reviews per developer.
+
+4.  **Developer Responsiveness Analysis:**
+    * A filtered bar chart was used to identify the most responsive developers.
+    * The filter was applied to include only apps with over 500 reviews, focusing on significant sample sizes.
+    * Responsiveness was determined based on the `developer_answered` column.
+
+This analysis provides insights into app popularity, user sentiment (through reviews), and developer engagement, which can be valuable for app developers and platform managers.
