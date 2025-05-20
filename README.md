@@ -10,4 +10,4 @@ Projects I've worked on while studying Business Intelligence Analytics at Triple
 | S4 | [SuperStore Insights](https://github.com/viaesa/Data_projects_TripleTen/tree/main/SuperStore%20Insights)  | change            | 
 | S5 | [SuperStore Return Analysis](https://github.com/viaesa/Data_projects_TripleTen/tree/main/SuperStore%20Return%20Analysis)    | Analyzed product return patterns to reduce returns.                 |
 | S6 |[Shopify App Analysis](https://github.com/viaesa/Data_projects_TripleTen/tree/main/Shopify%20App%20Analysis)| Analyzed Shopify app data to identify success factors.                       | 
-| S7 | [Zomato Restaurant Analysis](https://github.com/viaesa/Data_projects_TripleTen/tree/main/Zomato%20Restaurant%20Analysis)| Analysis of Zomato's food delivery restaurant's performance.            | 
+| S7 | [Zomato Sales Analysis](https://github.com/viaesa/Data_projects_TripleTen/tree/main/Zomato%20Restaurant%20Analysis)| Analysis of Zomato's food delivery sales's performance.            | 
