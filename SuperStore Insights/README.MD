@@ -1,0 +1,4 @@
+	•	Analyzed profitability by identifying top profit/loss centers and recommending products/subcategories to stop/focus on, supported by visualizations.
+	•	Determined optimal state-month advertising combinations based on average profit and proposed an advertising budget based on profit share, visualized by month.
+	•	Analyzed return rates by joining order and return data, identifying products and customers with high return rates through visualizations.
+	•	Compared average profit against average return rate on a chosen dimension to provide a visual argument for business decisions.
